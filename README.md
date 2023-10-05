@@ -1,0 +1,1 @@
+Python script that automates the process of calculating a demographic score for borrowers. The calculation is based on a predefined set of rules provided in a scorecard, which is in JSON format. The script is designed to work seamlessly with any borrower's data as long as the said borrower's data includes the expected attributes specified in the scorecard.
