@@ -1,0 +1,15 @@
+{
+	"age": 50,
+    "gender": "female",
+    "location": "City",
+    "customer_tier": "Tier 2",
+    "marital_status": "Married",
+    "employer_category": "Private Company",
+    "employment_status": "Employed",
+    "type_of_residence": "Rented Apartment",
+    "monthly_net_income": "100,000 - 199,999",
+    "no_of_dependent": "2",
+    "sector_of_employment": "Information Technology",
+    "educational_attainment": "Bsc,HND and other equivalent",
+    "time_with_current_employer": 10
+}
